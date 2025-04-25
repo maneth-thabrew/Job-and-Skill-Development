@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Created-By: IntelliJ IDEA
+Built-By: vimukthi
+Build-Jdk: Oracle OpenJDK 17.0.12
+Implementation-Title: iap-demo-api
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: lk.acpt
+Main-Class: ${start-class}
+
